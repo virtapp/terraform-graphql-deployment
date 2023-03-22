@@ -6,7 +6,7 @@ Kubernetes in Docker with Terraform
 
 🎯 About
 
-OpenMetadata Unlock the value of data assets with an end-to-end metadata platform that includes data discovery, governance, data quality, observability, and people collaborationd.
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools
 🚀 Technologies
 
 OpenMetadata depends on following components to build a metadata platform
